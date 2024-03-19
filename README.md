@@ -10,12 +10,9 @@ I build the causal and optimization core of commercial decisioning systems, then
 
 ## What I'm doing now
 
-- Tech lead and sole maintainer of the in-production promotion allocation platform serving 8 brands
-- Consolidated per-brand repositories into one Dagster-orchestrated codebase using asset factory patterns, making brand differences configuration rather than forked code
-- Established unified commercial-core and patient-core feature stores, now reused across the commercial organization
-- Own model monitoring (drift detection, retraining triggers), MLflow tracking and registry, and GitHub Actions CI/CD gating deployments
-- Own the downstream path: weekly scoring and recommendation delivery into CRM with pre-release validation and calibration checks
-- Building an internal MCP server exposing the system to commercial and analytics teams through Claude, with tiered tools separating descriptive metrics, model attribution, and causal estimates
+- End-to-end ownership of an in-production ML platform: Dagster orchestration, asset factory patterns, unified feature stores
+- Model monitoring (drift detection, retraining triggers), MLflow tracking and registry, GitHub Actions CI/CD
+- Building an internal MCP server (Claude) with tiered tools spanning descriptive metrics, model attribution, and causal estimates
 
 ---
 
