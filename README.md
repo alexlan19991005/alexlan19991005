@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+# Hi, I'm Alex
 
 ### Senior Manager, Analytical AI Engineering @ Bristol-Myers Squibb
 
@@ -8,25 +8,32 @@ Currently based in the NJ area, working on **MLOps, Causal ML, Agentic AI Toolin
 
 ---
 
-## 🧭 What I'm doing right now
+## What I'm doing right now
 
-- ☁️ Leading a **Domino Data Lab → Databricks migration** (moving S3 storage, Dagster orchestration, and MLflow-based model monitoring onto a unified Databricks stack)
-- 🤖 Building an **AI code review agent** for BMS's GitHub Enterprise, modeled after Uber's uReview — an agentic CI/CD system triggered on PR comments, built with Claude Code
-- 📊 Studying **MLflow** in depth: Tracking, Model Registry, pyfunc, autolog, evaluate
-- 🛠️ Designing **dashboard tooling** for cross-functional data science teams
-- 🔬 Applying background in **uplift modeling & counterfactual inference** to new AI engineering problems
-
----
-
-## 💼 Experience
-
-- 🧠 **AI/ML Engineering** — MLOps pipelines, model deployment, and internal tooling for analytical teams at BMS
-- 🎯 **Next-Best-Action Modeling** — Built an NBA engine for HCP targeting in oncology/hematology, with uplift modeling and counterfactual inference for launch readiness (iberdomide/CELMoD)
-- ☁️ **Data & ML Platform Engineering** — Kedro-based pipelines, feature management, and large-scale data platform migration
+- Leading a **Domino Data Lab to Databricks migration** (moving S3 storage, Dagster orchestration, and MLflow-based model monitoring onto a unified Databricks stack)
+- Building an **AI code review agent** for BMS's GitHub Enterprise, modeled after Uber's uReview — an agentic CI/CD system triggered on PR comments, built with Claude Code
+- Studying **MLflow** in depth: Tracking, Model Registry, pyfunc, autolog, evaluate
+- Designing **dashboard tooling** for cross-functional data science teams
+- Applying background in **uplift modeling and counterfactual inference** to new AI engineering problems
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
+
+- **AI/ML Engineering** — MLOps pipelines, model deployment, and internal tooling for analytical teams at BMS
+- **Next-Best-Action Modeling** — Built an NBA engine for HCP targeting in oncology/hematology, with uplift modeling and counterfactual inference for launch readiness (iberdomide/CELMoD)
+- **Data & ML Platform Engineering** — Kedro-based pipelines, feature management, and large-scale data platform migration
+
+---
+
+## Education
+
+- **M.S., Business Analytics** — Columbia University (IEOR / Columbia Business School), 2022–2023
+- **B.S., Economics, minor in Statistics** — Boston University, 2018–2022
+
+---
+
+## Tech Stack
 
 ### Languages
 
@@ -59,7 +66,7 @@ Currently based in the NJ area, working on **MLOps, Causal ML, Agentic AI Toolin
 
 ---
 
-## 🧠 Areas I Work On
+## Areas I Work On
 
 ```text
 AI Engineering & MLOps
@@ -88,95 +95,7 @@ Data & Cloud
 
 ---
 
-## 🚀 Featured Projects
+## Contact
 
-### 🤖 AI Code Review Agent
-Agentic CI/CD code review system for BMS's GitHub Enterprise, modeled after Uber's uReview — triggered on PR comments, built with Claude Code.
-
-**Tech:** Claude Code · GitHub Enterprise · CI/CD
-
-[🔗 View Project](https://github.com/YOUR_USERNAME/PROJECT_ONE)
-
----
-
-### 🎯 Next-Best-Action Engine for HCP Targeting
-Uplift modeling and counterfactual inference engine for oncology/hematology HCP targeting, with SHAP-based explainability and claims-based micro-segmentation, built for CELMoD launch readiness.
-
-**Tech:** Python · Scikit-learn · Causal ML · SHAP
-
-[🔗 View Project](https://github.com/YOUR_USERNAME/PROJECT_TWO)
-
----
-
-### 📊 Reblozyl CE3
-BMS's first in-house-developed customer engagement solution, delivered end-to-end.
-
-**Tech:** Python · SQL · ML Pipelines
-
-[🔗 View Project](https://github.com/YOUR_USERNAME/PROJECT_THREE)
-
----
-
-### ☁️ Domino → Databricks Migration
-Migrating a legacy stack (S3 storage, Dagster orchestration, MLflow monitoring) onto a unified Databricks platform for the Analytical AI Engineering team.
-
-**Tech:** Databricks · MLflow · AWS
-
-[🔗 View Project](https://github.com/YOUR_USERNAME/PROJECT_FOUR)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🌐 Find Me
-
-- 🌎 Portfolio: [YOUR_WEBSITE](https://yourwebsite.com)
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 📧 Email: `your.email@example.com`
-
----
-
-## ☕ Support
-
-If you like my projects, feel free to ⭐ a repository!
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
-
-</div>
+- **Email:** alexlan1005@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/alex-ke-lan/
