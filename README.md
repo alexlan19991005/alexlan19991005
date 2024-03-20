@@ -34,17 +34,7 @@ I build the causal and optimization core of commercial decisioning systems, then
 
 ## Technical Skills
 
-**Languages:** Python, SQL, PySpark, JavaScript / TypeScript
-
-**Causal & ML:** uplift modeling, CATE estimation, propensity score methods, contextual bandits, constrained optimization, model interpretation, evaluation and calibration
-
-**Data & ML Platform:** Dagster, MLflow, Databricks, feature stores, Spark pipelines, drift detection
-
-**Backend & Web:** FastAPI, Node.js, React, Next.js, Vue.js, Streamlit
-
-**Infra & DevOps:** Docker, Redis, Prometheus, Grafana, GitHub Actions, Git, npm
-
-**Cloud:** AWS, Azure, Google Cloud, Vercel, Oracle
+**Methods:** uplift modeling, CATE estimation, propensity score methods, contextual bandits, constrained optimization, model interpretation, evaluation and calibration, feature stores, drift detection
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
