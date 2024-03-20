@@ -16,23 +16,12 @@ I build the causal and optimization core of commercial decisioning systems, then
 
 ---
 
-## Experience
+## What I did before
 
-**Bristol Myers Squibb — Senior Engineer, AI & Predictive Solutions** (Sr. Manager, IC) · May 2026–present
-
-Tech lead and sole maintainer of the promotion allocation platform serving 8 brands. Codebase consolidation, shared feature stores, model monitoring, CI/CD, CRM delivery, and an internal MCP server. Reviews every data science PR and pairs with DS on business-driven enhancement sprints.
-
-**Bristol Myers Squibb — Data Scientist → Senior Data Scientist** (Manager → Sr. Manager, IC) · Feb 2024–May 2026
-
-Co-designed the omni-channel promotion allocation system, reframing it from response prediction to commercial sensitivity estimation via uplift modeling, and building a prediction / scenario generation / optimization framework that scaled across the full US portfolio (credited with $20M+ annualized incremental sales). Built the field and cross-channel orchestration optimizer, turning per-customer sensitivity estimates into weekly action plans under field capacity, channel budget, and contact frequency constraints. Designed the evaluation framework around implied ATE aggregated from estimated CATEs. Established a contextual bandit POC using Thompson sampling over a learned reward model, reaching channel-content level allocation.
-
-**Novo Nordisk — Data Scientist, Advanced Analytics** · Jun–Dec 2023
-
-Built a standardized causal inference package for promotional impact measurement with configurable propensity score estimation and pluggable adjustment methods (PSM, IPW), adopted across 10+ analyses. Built the marketing mix scenario planning backend and productionized it as a self-serve Streamlit app covering $70M+ in market spend.
-
-**WeightWatchers — Data Science Intern** · Jan–May 2023
-
-Supported development of Experience Engine, an ML system predicting member disengagement risk and content affinity.
+- Built causal inference systems end to end: uplift modeling, CATE estimation, propensity score methods (PSM, IPW), and evaluation frameworks centered on implied ATE
+- Built prediction / scenario-generation / optimization pipelines and constrained orchestration optimizers
+- Prototyped a contextual bandit with Thompson sampling over a learned reward model
+- Packaged reusable causal inference libraries and shipped ML backends as self-serve Streamlit apps
 
 ---
 
