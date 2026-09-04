@@ -4,16 +4,13 @@
 
 Building and owning **production ML systems for customer targeting, personalization, and AdTech**, from predictive and causal modeling to optimization and production deployment.
 
-> ⚡ **Databricks ML Platform** — PySpark · MLflow · Feature Stores · Dagster · Model Monitoring · Automated Retraining · CI/CD
+>  **Databricks ML Platform** — PySpark · MLflow · Feature Stores · Dagster · Model Monitoring · Automated Retraining · CI/CD
 
-**Customer Targeting & AdTech**  
-Audience Segmentation · Next-Best-Action · Personalization · Propensity Modeling · Incrementality · Campaign Optimization
-
-**ML & Optimization**  
-Causal Inference · Uplift / CATE · PSM / IPW · Contextual Bandits · Thompson Sampling · Scenario Generation · Constrained Optimization
+**Customer Targeting & Uplift Modeling**  
+>  Causal Inference · Uplift / CATE · PSM / IPW · Contextual Bandits · Thompson Sampling · Scenario Generation · Constrained Optimization
 
 **ML Systems & System Design**  
-Distributed Data Processing · Feature Pipelines · ML Orchestration · Model Serving · Model Registry · Observability · Drift Detection · MCP
+>  Distributed Data Processing · Feature Pipelines · ML Orchestration · Model Serving · Model Registry · Observability · Drift Detection · MCP
 
 ---
 
