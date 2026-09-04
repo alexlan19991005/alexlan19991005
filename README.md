@@ -1,4 +1,4 @@
-# Hi, I'm Alex
+# I'm Alex
 
 ### Senior Engineer, AI & Predictive Solutions @ Bristol Myers Squibb
 
