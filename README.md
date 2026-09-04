@@ -2,25 +2,7 @@
 
 ### Senior Engineer, AI & Predictive Solutions @ Bristol Myers Squibb
 
-ML engineer and full-stack data scientist based in Jersey City, NJ. Around three years of post-graduate experience, all of it building decision systems for commercial and marketing organizations in pharma.
-
-I build the causal and optimization core of commercial decisioning systems, then own the platform that runs them in production — an unusual combination, since most people have one side or the other.
-
----
-
-## What I'm doing now
-
-- End-to-end ownership of an in-production ML platform: Dagster orchestration, asset factory patterns, unified feature stores
-- Model monitoring (drift detection, retraining triggers), MLflow tracking and registry, GitHub Actions CI/CD
-- Building an internal MCP server (Claude) with tiered tools spanning descriptive metrics, model attribution, and causal estimates
-
----
-
-## What I did before
-
-- Built causal inference systems end to end: uplift modeling, CATE estimation, propensity score methods (PSM, IPW), and evaluation frameworks centered on implied ATE
-- Built prediction / scenario-generation / optimization pipelines and constrained orchestration optimizers
-- Prototyped a contextual bandit with Thompson sampling over a learned reward model
+Building and owning production ML decisioning systems for commercial and marketing applications, spanning **causal inference, uplift/CATE modeling, propensity methods (PSM/IPW), contextual bandits & Thompson sampling, prediction & scenario generation, constrained optimization, and model attribution**. Engineering the supporting ML platform with **Python, PySpark, SQL, Dagster, MLflow, GitHub Actions, feature stores, drift monitoring, automated retraining, CI/CD, and MCP**, covering the full lifecycle from data and modeling through orchestration, deployment, monitoring, and production optimization.
 
 ---
 
@@ -73,9 +55,6 @@ I build the causal and optimization core of commercial decisioning systems, then
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000)
 
-**Methods**
-
-uplift modeling, CATE estimation, propensity score methods, contextual bandits, constrained optimization, model interpretation, evaluation and calibration, feature stores, drift detection
 
 ---
 
