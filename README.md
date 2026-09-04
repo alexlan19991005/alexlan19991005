@@ -13,7 +13,7 @@ Currently based in the NJ area, working on **MLOps, Causal ML, Agentic AI Toolin
 - ☁️ Leading a **Domino Data Lab → Databricks migration** (moving S3 storage, Dagster orchestration, and MLflow-based model monitoring onto a unified Databricks stack)
 - 🤖 Building an **AI code review agent** for BMS's GitHub Enterprise, modeled after Uber's uReview — an agentic CI/CD system triggered on PR comments, built with Claude Code
 - 📊 Studying **MLflow** in depth: Tracking, Model Registry, pyfunc, autolog, evaluate
-- 🛠️ Designing **dashboard tooling** (Dash / Streamlit / R Shiny) for cross-functional data science teams
+- 🛠️ Designing **dashboard tooling** for cross-functional data science teams
 - 🔬 Applying background in **uplift modeling & counterfactual inference** to new AI engineering problems
 
 ---
