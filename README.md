@@ -2,7 +2,18 @@
 
 ### Senior Engineer, AI & Predictive Solutions @ Bristol Myers Squibb
 
-Building and owning production ML decisioning systems for commercial and marketing applications, spanning **causal inference, uplift/CATE modeling, propensity methods (PSM/IPW), contextual bandits & Thompson sampling, prediction & scenario generation, constrained optimization, and model attribution**. Engineering the supporting ML platform with **Python, PySpark, SQL, Dagster, MLflow, GitHub Actions, feature stores, drift monitoring, automated retraining, CI/CD, and MCP**, covering the full lifecycle from data and modeling through orchestration, deployment, monitoring, and production optimization.
+Building and owning **production ML systems for customer targeting, personalization, and AdTech**, from predictive and causal modeling to optimization and production deployment.
+
+> ⚡ **Databricks ML Platform** — PySpark · MLflow · Feature Stores · Dagster · Model Monitoring · Automated Retraining · CI/CD
+
+**Customer Targeting & AdTech**  
+Audience Segmentation · Next-Best-Action · Personalization · Propensity Modeling · Incrementality · Campaign Optimization
+
+**ML & Optimization**  
+Causal Inference · Uplift / CATE · PSM / IPW · Contextual Bandits · Thompson Sampling · Scenario Generation · Constrained Optimization
+
+**ML Systems & System Design**  
+Distributed Data Processing · Feature Pipelines · ML Orchestration · Model Serving · Model Registry · Observability · Drift Detection · MCP
 
 ---
 
