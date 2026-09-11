@@ -1,0 +1,297 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1000"
+  height="920"
+  viewBox="0 0 1000 920"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Alex Lan Career and Education Timeline</title>
+  <desc id="desc">
+    Career and education timeline from Boston University through Bristol Myers Squibb.
+  </desc>
+
+  <style>
+    text {
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Helvetica,
+        Arial,
+        sans-serif;
+    }
+
+    .title {
+      font-size: 28px;
+      font-weight: 700;
+      fill: #f0f6fc;
+    }
+
+    .role {
+      font-size: 18px;
+      font-weight: 700;
+      fill: #f0f6fc;
+    }
+
+    .org {
+      font-size: 15px;
+      fill: #c9d1d9;
+    }
+
+    .date {
+      font-size: 13px;
+      fill: #8b949e;
+    }
+
+    .spine {
+      stroke: #30363d;
+      stroke-width: 3;
+      stroke-linecap: round;
+    }
+
+    .career-line {
+      stroke: #58a6ff;
+      stroke-width: 2;
+      stroke-linecap: round;
+    }
+
+    .education-line {
+      stroke: #a371f7;
+      stroke-width: 2;
+      stroke-linecap: round;
+    }
+
+    .career-box {
+      fill: #161b22;
+      stroke: #58a6ff;
+      stroke-width: 1.5;
+    }
+
+    .education-box {
+      fill: #161b22;
+      stroke: #a371f7;
+      stroke-width: 1.5;
+    }
+
+    .career-node {
+      fill: #58a6ff;
+    }
+
+    .education-node {
+      fill: #a371f7;
+    }
+
+    .section {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #8b949e;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1000" height="920" rx="24" fill="#0d1117"/>
+
+  <!-- Header -->
+  <text x="500" y="58" text-anchor="middle" class="title">
+    Career &amp; Education
+  </text>
+
+  <!-- Legend -->
+  <circle cx="407" cy="94" r="5" class="career-node"/>
+  <text x="420" y="99" class="date">CAREER</text>
+
+  <circle cx="522" cy="94" r="5" class="education-node"/>
+  <text x="535" y="99" class="date">EDUCATION</text>
+
+  <!-- Main spine -->
+  <line x1="500" y1="145" x2="500" y2="850" class="spine"/>
+
+
+  <!-- ================================================= -->
+  <!-- SENIOR MACHINE LEARNING ENGINEER -->
+  <!-- ================================================= -->
+
+  <line x1="500" y1="180" x2="560" y2="180" class="career-line"/>
+  <circle cx="500" cy="180" r="9" class="career-node"/>
+  <circle cx="500" cy="180" r="4" fill="#0d1117"/>
+
+  <rect
+    x="560"
+    y="135"
+    width="360"
+    height="105"
+    rx="14"
+    class="career-box"
+  />
+
+  <text x="585" y="170" class="role">
+    Senior Machine Learning Engineer
+  </text>
+
+  <text x="585" y="197" class="org">
+    Bristol Myers Squibb
+  </text>
+
+  <text x="585" y="220" class="date">
+    May 2025 — Present
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- BMS DATA SCIENTIST -->
+  <!-- ================================================= -->
+
+  <line x1="440" y1="310" x2="500" y2="310" class="career-line"/>
+  <circle cx="500" cy="310" r="9" class="career-node"/>
+  <circle cx="500" cy="310" r="4" fill="#0d1117"/>
+
+  <rect
+    x="80"
+    y="265"
+    width="360"
+    height="105"
+    rx="14"
+    class="career-box"
+  />
+
+  <text x="105" y="300" class="role">
+    Data Scientist
+  </text>
+
+  <text x="105" y="327" class="org">
+    Bristol Myers Squibb
+  </text>
+
+  <text x="105" y="350" class="date">
+    Feb 2024 — May 2025
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- NOVO NORDISK -->
+  <!-- ================================================= -->
+
+  <line x1="500" y1="440" x2="560" y2="440" class="career-line"/>
+  <circle cx="500" cy="440" r="9" class="career-node"/>
+  <circle cx="500" cy="440" r="4" fill="#0d1117"/>
+
+  <rect
+    x="560"
+    y="395"
+    width="360"
+    height="105"
+    rx="14"
+    class="career-box"
+  />
+
+  <text x="585" y="430" class="role">
+    Data Scientist
+  </text>
+
+  <text x="585" y="457" class="org">
+    Novo Nordisk
+  </text>
+
+  <text x="585" y="480" class="date">
+    Jun 2023 — Dec 2024
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- WEIGHTWATCHERS -->
+  <!-- ================================================= -->
+
+  <line x1="440" y1="570" x2="500" y2="570" class="career-line"/>
+  <circle cx="500" cy="570" r="9" class="career-node"/>
+  <circle cx="500" cy="570" r="4" fill="#0d1117"/>
+
+  <rect
+    x="80"
+    y="525"
+    width="360"
+    height="105"
+    rx="14"
+    class="career-box"
+  />
+
+  <text x="105" y="560" class="role">
+    Data Scientist
+  </text>
+
+  <text x="105" y="587" class="org">
+    WeightWatchers
+  </text>
+
+  <text x="105" y="610" class="date">
+    Jan 2023 — May 2023
+  </text>
+
+
+  <!-- Career / education transition -->
+  <text x="500" y="664" text-anchor="middle" class="section">
+    EDUCATION
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- COLUMBIA -->
+  <!-- ================================================= -->
+
+  <line x1="500" y1="715" x2="560" y2="715" class="education-line"/>
+  <circle cx="500" cy="715" r="9" class="education-node"/>
+  <circle cx="500" cy="715" r="4" fill="#0d1117"/>
+
+  <rect
+    x="560"
+    y="670"
+    width="360"
+    height="105"
+    rx="14"
+    class="education-box"
+  />
+
+  <text x="585" y="705" class="role">
+    M.S. in Business Analytics
+  </text>
+
+  <text x="585" y="732" class="org">
+    Columbia University
+  </text>
+
+  <text x="585" y="755" class="date">
+    2022 — 2023
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- BOSTON UNIVERSITY -->
+  <!-- ================================================= -->
+
+  <line x1="440" y1="835" x2="500" y2="835" class="education-line"/>
+  <circle cx="500" cy="835" r="9" class="education-node"/>
+  <circle cx="500" cy="835" r="4" fill="#0d1117"/>
+
+  <rect
+    x="80"
+    y="790"
+    width="360"
+    height="105"
+    rx="14"
+    class="education-box"
+  />
+
+  <text x="105" y="825" class="role">
+    B.A. in Economics &amp; Statistics
+  </text>
+
+  <text x="105" y="852" class="org">
+    Boston University
+  </text>
+
+  <text x="105" y="875" class="date">
+    2018 — 2022
+  </text>
+
+</svg>
