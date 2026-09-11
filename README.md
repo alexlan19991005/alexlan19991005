@@ -32,17 +32,10 @@
   </tbody>
 </table>
 
-<p align="center">
-  <img src="assets/timeline.svg" alt="Career and education timeline" width="100%" />
-</p>
 
 <h3 align="center">LeetCode Statistics</h3>
 
 <p align="center">
-  <strong>Algorithm Account</strong><br/>
-  <a href="https://leetcode.com/alexlan1005"><img src="https://leetcard.jacoblin.cool/alexlan1005" alt="LeetCode Algorithm Stats" /></a>
-  <br/>
-  <strong>SQL Account</strong><br/>
   <a href="https://leetcode.com/alexlan2021"><img src="https://leetcard.jacoblin.cool/alexlan2021" alt="LeetCode SQL Stats" /></a>
 </p>
 
