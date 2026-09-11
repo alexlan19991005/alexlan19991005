@@ -1,1 +1,38 @@
-<h2 align="center">Ke Lan (Alex)</h2> <p align="center"> <strong>Applied ML &middot; Causal Inference &middot; ML Platform Engineering</strong><br/> <sub>Decision systems for commercial pharma — from uplift models to production ML pipelines.</sub> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLflow" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" /> </p> <table> <tbody> <tr> <td valign="top" width="33%"> <strong>Decision systems</strong><br/> Next-best-action engines for HCP targeting; uplift modeling, counterfactual inference, and behavioral segmentation. </td> <td valign="top" width="34%"> <strong>ML platform</strong><br/> MLflow tracking and Databricks migration; reproducible training pipelines, model registry, and MLOps tooling. </td> <td valign="top" width="33%"> <strong>Applied LLM &amp; NLP</strong><br/> Conversational customer-intelligence assistants, agentic workflows, and AI-assisted code review in CI/CD. </td> </tr> </tbody> </table> <p align="center"> <a href="mailto:YOUR_EMAIL">Email</a> &middot; <a href="https://www.linkedin.com/in/YOUR_HANDLE/">LinkedIn</a> &middot; <a href="https://YOUR_USERNAME.github.io/">Blog</a> &middot; <a href="https://x.com/YOUR_HANDLE">X / Twitter</a> &middot; WeChat: <code>YOUR_WECHAT</code> </p> <h3 align="center">GitHub Stats</h3> <p align="center"> <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats" /> </p>
+<h2 align="center">Alex Lan</h2>
+
+<p align="center">
+  <strong>Machine Learning &middot; Causal Inference &middot; Generative AI</strong><br/>
+  <sub>Building production ML systems across experimentation, personalization, and LLM applications.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLflow" />
+</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="33%">
+        <strong>Causal Inference & Experimentation</strong><br/>
+        A/B testing, uplift modeling, heterogeneous treatment effects, and observational causal inference.
+      </td>
+      <td valign="top" width="34%">
+        <strong>Ranking & Personalization</strong><br/>
+        Contextual bandits, recommendation, ranking, and optimization under business constraints.
+      </td>
+      <td valign="top" width="33%">
+        <strong>LLM & ML Systems</strong><br/>
+        RAG, retrieval, evaluation, orchestration, model monitoring, and production ML pipelines.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <a href="mailto:alexlan1005@gmail.com">Email</a> &middot;
+  <a href="https://www.linkedin.com/in/alex-ke-lan/">LinkedIn</a>
+</p>
