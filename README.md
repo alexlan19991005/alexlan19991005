@@ -33,6 +33,10 @@
 </table>
 
 <p align="center">
+  <img src="assets/timeline.svg" alt="Career and education timeline" width="100%" />
+</p>
+
+<p align="center">
   <a href="mailto:alexlan1005@gmail.com">Email</a> &middot;
   <a href="https://www.linkedin.com/in/alex-ke-lan/">LinkedIn</a>
 </p>
