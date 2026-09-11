@@ -38,18 +38,3 @@
 <p align="center">
   <a href="https://leetcode.com/alexlan2021"><img src="https://leetcard.jacoblin.cool/alexlan2021" alt="LeetCode SQL Stats" /></a>
 </p>
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-nine.vercel.app/api?username=alexlan19991005&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&include_all_commits=true&theme=dark" alt="GitHub Commit Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph-eta.vercel.app/graph?username=alexlan19991005&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <a href="mailto:alexlan1005@gmail.com">Email</a> &middot;
-  <a href="https://www.linkedin.com/in/alex-ke-lan/">LinkedIn</a>
-</p>
