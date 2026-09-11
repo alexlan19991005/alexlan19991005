@@ -37,6 +37,12 @@
 </p>
 
 <p align="center">
+  <a href="https://leetcode.com/alexlan1005"><img src="https://leetcard.jacoblin.cool/alexlan1005" alt="LeetCode Algorithm Stats" /></a>
+  <br/>
+  <a href="https://leetcode.com/alexlan2021"><img src="https://leetcard.jacoblin.cool/alexlan2021" alt="LeetCode SQL Stats" /></a>
+</p>
+
+<p align="center">
   <a href="mailto:alexlan1005@gmail.com">Email</a> &middot;
   <a href="https://www.linkedin.com/in/alex-ke-lan/">LinkedIn</a>
 </p>
