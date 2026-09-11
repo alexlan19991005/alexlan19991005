@@ -51,35 +51,35 @@
     }
 
     .career-line {
-      stroke: #58a6ff;
+      stroke: #1f4e99;
       stroke-width: 2;
       stroke-linecap: round;
     }
 
     .education-line {
-      stroke: #a371f7;
+      stroke: #c2570a;
       stroke-width: 2;
       stroke-linecap: round;
     }
 
     .career-box {
       fill: #161b22;
-      stroke: #58a6ff;
+      stroke: #1f4e99;
       stroke-width: 1.5;
     }
 
     .education-box {
       fill: #161b22;
-      stroke: #a371f7;
+      stroke: #c2570a;
       stroke-width: 1.5;
     }
 
     .career-node {
-      fill: #58a6ff;
+      fill: #1f4e99;
     }
 
     .education-node {
-      fill: #a371f7;
+      fill: #c2570a;
     }
 
     .section {
