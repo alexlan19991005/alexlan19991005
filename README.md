@@ -1,8 +1,8 @@
 <h2 align="center">Alex Lan</h2>
 
 <p align="center">
-  <strong>Machine Learning Systems &middot; Ranking & Personalization &middot; Generative AI</strong><br/>
-  <sub>Building production ML systems across personalization, experimentation, and LLM applications.</sub>
+  <strong>Machine Learning &middot; Causal Inference &middot; Generative AI</strong><br/>
+  <sub>Building production ML systems across experimentation, personalization, and LLM applications.</sub>
 </p>
 
 <p align="center">
@@ -32,8 +32,7 @@
   </tbody>
 </table>
 
-<br/>
-
+<p align="center">
   <a href="mailto:alexlan1005@gmail.com">Email</a> &middot;
   <a href="https://www.linkedin.com/in/alex-ke-lan/">LinkedIn</a>
 </p>
